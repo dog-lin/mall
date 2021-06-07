@@ -14,7 +14,7 @@ import lombok.experimental.Accessors;
  * <p>
  * 
  * </p>
- *
+ *购物车类
  * @author doglin
  * @since 2021-04-21
  */
