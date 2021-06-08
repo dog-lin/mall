@@ -11,7 +11,7 @@ import lombok.experimental.Accessors;
  * <p>
  * 
  * </p>
- *表示商品类
+ *表示商品类 git test
  * @author doglin
  * @since 2021-04-21
  */
